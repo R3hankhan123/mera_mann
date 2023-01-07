@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617400207971",
+    "project_id": "mera-mann-6394c",
+    "storage_bucket": "mera-mann-6394c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617400207971:android:166a3c693adce6bad58656",
+        "android_client_info": {
+          "package_name": "com.example.mera_mann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617400207971-uiisc7cvucus8bgsecesd0rstt2mdg8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR3P_2HLD1sQBLOwfbvvbpAhoZAdhl-lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617400207971-uiisc7cvucus8bgsecesd0rstt2mdg8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
